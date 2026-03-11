@@ -1,5 +1,5 @@
 import { useState, useCallback, useRef } from "react";
-import * as XLSX from "https://cdn.sheetjs.com/xlsx-0.20.1/package/xlsx.mjs";
+import * as XLSX from "xlsx";
 
 // ─── Palette & Design System ─────────────────────────────────────────────────
 const T = {
